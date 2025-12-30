@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sakinkhan
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning JavaScript, SAS VI, SAS Viya
+- 🌱 I’m currently learning JavaScript, React, Next JS, SAS VI, SAS Viya
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sakin2044@gmail.com
 
