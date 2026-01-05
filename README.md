@@ -91,7 +91,7 @@ I work effectively both independently and within cross-functional teams, and I v
   <a href="https://github.com/sakinkhan" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://skillicons.dev/icons?i=github" height="48" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/tanvir-hossain-khan/" target="_blank" style="text-decoration: none; border: none;">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
   </a>
@@ -131,7 +131,8 @@ I work effectively both independently and within cross-functional teams, and I v
 - **Client:** [View Repository](https://github.com/sakinkhan/eTuitionBD-b12a11-client.git)  
 - **Server:** [View Repository](https://github.com/sakinkhan/eTuitionBD-b12a11-server.git)  
 
-**Live:** https://etuitionbd-sakinkhan.web.app/
+**Live:** 
+[View Live Application](https://etuitionbd-sakinkhan.web.app/)
 
 **Overview:**  
 A full-featured tuition management platform that connects students, tutors, and administrators through structured workflows for tuition posting, tutor applications, communication, and payments.
@@ -157,92 +158,117 @@ React · Tailwind CSS · DaisyUI · Firebase · Vercel
 
 ---
 
-### 2) **PROJECT NAME 2**  
-**Repo:** [View Repository](REPO_LINK_2)  
-**Live:** LIVE_LINK_2  
+### 2) **HomeNest**
 
-**Overview:** One-line summary of what the project does and who it’s for.  
-**Tech:** React · Node · MongoDB · Stripe (example)  
-**Highlights:** Feature 1 · Feature 2 · Feature 3  
+**Repository:**  
+- **Client:** [View Repository](https://github.com/sakinkhan/b12a10-assignment-010-client.git)  
+- **Server:** [View Repository](https://github.com/sakinkhan/b12a10-assignment-010-server.git)  
 
----
+**Live:** 
+[View Live Application](https://home-nest-app-485ea.web.app/)  
 
-### 3) **PROJECT NAME 3**  
-**Repo:** [View Repository](REPO_LINK_3)  
-**Live:** LIVE_LINK_3  
+**Overview:**  
+HomeNest is a real estate listing platform that enables property owners to publish rental or sale listings, while allowing users to browse, search, and filter properties by location, price range, and property type.
 
-**Overview:** One-line summary of what the project does and who it’s for.  
-**Tech:** React · TanStack Query · Tailwind · JWT (example)  
-**Highlights:** Feature 1 · Feature 2 · Feature 3  
+**Tech (Client):**  
+React · Tailwind CSS · DaisyUI · Firebase  
 
----
+**Tech (Server):**  
+Node.js · Express · MongoDB  
 
-### (Optional) 4) **PROJECT NAME 4**
-**Repo:** [View Repository](REPO_LINK_4)  
-**Live:** LIVE_LINK_4  
+**System Scope & Scale:**  
+- Supports property listings for rent and sale  
+- Designed for multi-user access with search and filtering at scale  
+- Handles structured property data including pricing, location, and property attributes  
 
-**Overview:** One-line summary.  
-**Tech:** Tech 1 · Tech 2 · Tech 3  
-**Highlights:** Feature 1 · Feature 2 · Feature 3  
+**How the System Works (Workflow):**  
+1. Property owners create accounts and post listings with details such as price, location, type, and availability.  
+2. Users browse listings and apply filters to narrow results by location, price, or property type.  
+3. Listings are managed through backend services to ensure data consistency and availability.  
 
----
-
-## ✅ Pinned Repository Requirements (Checklist)
-
-Use this checklist inside **each pinned repository README**:
-
-- **Short overview** (what it is, who it’s for)
-- **Live link**
-- **Tech stack**
-- **Clean screenshot**
-- **Core features**
-- **Dependencies used**
-- **How to run locally** (step-by-step)
-- **Other relevant resources** (docs, API, credentials note, etc.)
+**Key Capabilities:**  
+- Advanced search and filtering functionality  
+- Secure authentication for property owners  
+- Structured listing management for rental and sale properties  
+- Scalable client–server architecture for future expansion  
+  
 
 ---
 
-## 🧩 Template for Each Project README (Copy into each repo)
+### 3) **ToyTopia**
 
-> Use the following structure in every pinned repo so they all look consistent and professional.
+**Repository:**  
+[View Repository](https://github.com/sakinkhan/toytopia-b12a9.git)
 
-### Project Title
-Short, clear description of what the project does.
+**Live:** 
+[View Live Application](LIVE_PROJECT_LINK_HERE)
 
-#### 🔗 Live Links
-- Live Site: LIVE_LINK_HERE  
-- Client Repo: CLIENT_REPO_LINK_HERE  
-- Server Repo (if any): SERVER_REPO_LINK_HERE  
+**Overview:**  
+ToyTopia is an online marketplace designed to promote local toy stores by allowing families to browse, explore, and purchase children’s toys through a user-friendly, engaging interface.
 
-#### 🖼️ Screenshot
-![Project Screenshot](SCREENSHOT_LINK_OR_PATH)
+**Tech (Client):**  
+React · Tailwind CSS · DaisyUI · Firebase  
 
-#### 🧰 Technologies Used
-- React / Next.js
-- Tailwind CSS / DaisyUI
-- Firebase / Node / MongoDB (whatever applies)
-- Other key libraries
+**Tech (Server):**  
+Node.js · Express · MongoDB  
 
-#### ✨ Core Features
-- Feature 1 (specific and real)
-- Feature 2
-- Feature 3
-- Feature 4 (optional)
+**System Scope & Scale:**  
+- Supports product listings from multiple local sellers  
+- Enables user authentication and session-based interaction  
+- Designed to handle browsing, feedback, and rating workflows at scale  
 
-#### 📦 Dependencies
-- react-router-dom
-- @tanstack/react-query
-- axios
-- firebase
-- (list your actual dependencies)
+**How the System Works (Workflow):**  
+1. Users register or log in to the platform and browse available toy listings.  
+2. Users view detailed toy information, including pricing, descriptions, and seller details.  
+3. Authenticated users leave feedback or ratings to support informed purchasing decisions.  
 
-#### ▶️ Run Locally (Step-by-Step)
+**Key Capabilities:**  
+- User authentication and profile management  
+- Product listing and detailed view pages  
+- Rating and feedback system for toys  
+- Scalable client–server architecture suitable for e-commerce growth  
+  
 
-1. Clone the repository  
-   ```bash
-   git clone CLIENT_REPO_LINK_HERE
+---
 
+### 4) **Hero IO**
 
+**Repository:**  
+[View Repository](https://github.com/sakinkhan/b12a08-assignment-008.git)
+
+**Live:** 
+[View Live Application](https://dashing-gumdrop-ad362c.netlify.app/)
+
+**Overview:**  
+Hero IO is a responsive app discovery platform inspired by modern app stores. It allows users to browse, search, sort, install, and manage applications, with a strong focus on UI state management, data-driven views, and client-side persistence.
+
+**Tech (Client):**  
+React · Tailwind CSS · DaisyUI · Recharts · LocalStorage · Vercel / Netlify
+
+**System Scope & Scale:**  
+- Manages a structured dataset of 12–20 applications  
+- Supports multi-page navigation with dynamic routing  
+- Designed for smooth client-side interaction and state consistency  
+
+**How the System Works (Workflow):**  
+1. Users browse featured and top applications from structured JSON data.  
+2. Applications can be searched in real time and sorted by download count.  
+3. Users view detailed app information, including ratings and review charts.  
+4. Apps can be installed and managed using browser localStorage.  
+
+**Key Capabilities:**  
+- Fully responsive layout across all device sizes  
+- Live search with instant filtering and empty-state handling  
+- App installation and uninstallation using persistent localStorage  
+- Interactive data visualisation using Recharts  
+- Robust routing with custom error and not-found handling  
+- Loading indicators during navigation and search operations  
+
+**Quality & Delivery Focus:**  
+- Production-ready build with error-free deployment  
+- Clean routing support for page reloads after deployment  
+- Structured component design aligned with Figma specifications  
+ 
 ---
 
 <p align="center">
