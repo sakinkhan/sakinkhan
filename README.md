@@ -1,3 +1,11 @@
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Tunazzina%20Zaman&fontSize=42&fontColor=ffffff&fontAlignY=35" />
+</p>
+
+<h2 align="center">Frontend Developer · Web Developer</h2>
+
+
 - 👋 Hi, I’m @sakinkhan
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning JavaScript, React, Next JS, SAS VI, SAS Viya
