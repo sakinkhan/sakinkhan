@@ -1,9 +1,11 @@
 <!-- ===================== BANNER ===================== -->
+<p>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Tanvir%20Hossain%20Khan&fontSize=40&fontColor=ffffff&fontAlignY=35"
+    width="100%"
+  />
+</p>
 
-<img 
-  src="[https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Tanvir%20Hossain%20Khan&fontSize=40&fontColor=ffffff&fontAlignY=35](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Tanvir%20Hossain%20Khan&fontSize=40&fontColor=ffffff&fontAlignY=35)" 
-  width="100%" 
-/>
 
 
 <h2 align="center">Frontend Developer · AI-Enabled Web Engineer</h2>
