@@ -101,6 +101,8 @@ I work effectively both independently and within cross-functional teams, and I v
 
 ## 📊 GitHub Activity & Stats
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sakinkhan)](https://git.io/streak-stats)
+
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
