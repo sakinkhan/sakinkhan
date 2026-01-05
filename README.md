@@ -103,21 +103,38 @@ I work effectively both independently and within cross-functional teams, and I v
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sakinkhan&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
+<img
+  src="https://streak-stats.demolab.com?user=sakinkhan&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D"
+  height="165"
+/>
 
-<p align="center">
+<p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=sakinkhan&show_icons=true&theme=transparent&hide_border=true"
     height="165"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sakinkhan&theme=dark&hide_border=true"
+    height="165"
+  />
+</p>
+
+
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sakinkhan&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sakinkhan&theme=transparent&hide_border=true"
     height="165"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakinkhan&layout=compact&theme=transparent&hide_border=true&langs_count=8"
     height="165"
   />
 </p>
