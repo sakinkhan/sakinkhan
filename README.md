@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=200&section=header&text=Tanvir%20Hossain%20Khan&fontSize=38&fontColor=ffffff&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Tanvir%20Hossain%20Khan&fontSize=40&fontColor=ffffff&fontAlignY=35" />
 </p>
 
 <h2 align="center">Frontend Developer · AI-Enabled Web Engineer</h2>
